@@ -56,3 +56,15 @@ This repository contains an ELO replica, a point of sale project developed durin
 
 ## Contact
 For any inquiries or support, please contact [usama.fayyaz157@gmail.com].
+
+
+
+![Image 1](./images/image1.PNG)
+
+![Image 2](./images/image2.png)
+
+![Image 3](./images/image3.png)
+
+![Image 4](./images/image4.png)
+
+![Image 5](./images/image5.png)
